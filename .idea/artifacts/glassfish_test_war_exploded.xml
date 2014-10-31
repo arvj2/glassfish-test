@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="glassfish-test:war exploded">
+    <output-path>$PROJECT_DIR$/target/glassfish-test</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="glassfish-test/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="glassfish-test" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
