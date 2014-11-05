@@ -12,4 +12,7 @@ public abstract interface BankService {
 
     @WebMethod
     public abstract String getAccount();
+
+    @WebMethod
+    public abstract String getName();
 }

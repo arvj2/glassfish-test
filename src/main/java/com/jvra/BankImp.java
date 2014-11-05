@@ -12,4 +12,9 @@ public class BankImp implements BankService{
     public String getAccount() {
         return null;
     }
+
+    @Override
+    public String getName() {
+        return null;
+    }
 }
