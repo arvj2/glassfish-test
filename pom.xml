@@ -29,7 +29,7 @@
                         <id>gf-deploy</id>
                         <phase>install</phase>
                         <goals>
-                            <goal>deploy</goal>
+                            <goal>redeploy</goal>
                         </goals>
                     </execution>
                 </executions>
